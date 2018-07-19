@@ -22,7 +22,7 @@ Set of [semantic-release](https://github.com/semantic-release/semantic-release) 
   }
 }
 ```
-##Windows Support Disclaimer
+## Windows Support Disclaimer
 Currently this plugin will only runs in *nix systems, as it uses shell scripts to log into google cloud. If you need Windows support Pull-requests are welcome.
 
 
